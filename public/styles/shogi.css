@@ -1,0 +1,32 @@
+.cellStyle{
+	width : 60px;
+	height : 60px;
+	cursor : default;
+}
+
+.center{
+	width : 100%;
+	text-align : center;
+	line-height :60px;
+	height : 100%;
+	cursor : pointer;
+}
+
+.center:hover{
+	background : rgba(0,0,0,.1);
+	transition: all .28s ease-in-out;
+}
+
+.centerNari{
+	width : 100%;
+	text-align : center;
+	line-height :60px;
+	height : 100%;
+	cursor : pointer;
+	color: red;
+}
+
+.centerNari:hover{
+	background : rgba(0,0,0,.1);
+	transition: all .28s ease-in-out;
+}
